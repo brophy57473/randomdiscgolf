@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.info {
+    color: blue;
+    padding: 50px;
+    width: 100%;
+    text-align: center;
+}
+.team-container {
+    margin: 30px;
+}
+.random-throw, .button-container {
+    text-align: center;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    height: 100px;
+}
+button {
+    padding: 20px 30px;
+}
+#team-one-points, #team-two-points {
+    display: inline;
+}
+#random-throw-result {
+    align-self: center; 
+}
+.random-throw {
+    margin-top: 200px;
+}
