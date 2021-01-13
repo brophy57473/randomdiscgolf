@@ -28,6 +28,7 @@ button {
 }
 #random-throw-result {
     align-self: center; 
+    font-size: 2rem;
 }
 .random-throw {
     margin-top: 200px;
