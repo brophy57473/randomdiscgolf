@@ -18,18 +18,18 @@
     display: flex;
     align-content: center;
     justify-content: center;
-    height: 100px;
 }
 button {
-    padding: 20px 30px;
+    padding: 5px 10px;
 }
 #team-one-points, #team-two-points {
     display: inline;
 }
-#random-throw-result {
+.result {
     align-self: center; 
     font-size: 2rem;
 }
 .random-throw {
-    margin-top: 200px;
+    margin-top: 50px;
+    height: 100px;
 }
